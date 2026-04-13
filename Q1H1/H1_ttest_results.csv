@@ -1,0 +1,13 @@
+Comparison,PC,Mean_A,Mean_B,Δ Mean,t_stat,t_p,t_sig,MW_p,MW_sig,Cohen's d,Effect Size
+Pre vs Pandemic,PC1,0.1752,0.015,0.1602,13.6644,0.0,***,0.0,***,0.1092,negligible
+Pre vs Pandemic,PC2,0.1725,0.0844,0.088,9.9776,0.0,***,0.0,***,0.0797,negligible
+Pre vs Pandemic,PC3,0.0456,-0.0647,0.1102,16.1536,0.0,***,0.0,***,0.129,negligible
+Pre vs Pandemic,PC4,-0.1529,-0.0069,-0.146,-19.9426,0.0,***,0.0,***,-0.1594,negligible
+Pandemic vs Post,PC1,0.015,-0.2044,0.2194,15.6824,0.0,***,0.0,***,0.128,negligible
+Pandemic vs Post,PC2,0.0844,-0.2765,0.3609,42.8696,0.0,***,0.0,***,0.3483,small
+Pandemic vs Post,PC3,-0.0647,0.021,-0.0856,-9.4669,0.0,***,0.161483,ns,-0.0775,negligible
+Pandemic vs Post,PC4,-0.0069,0.1717,-0.1786,-22.4621,0.0,***,0.0,***,-0.1832,negligible
+Pre vs Post,PC1,0.1752,-0.2044,0.3796,28.6034,0.0,***,0.0,***,0.2344,small
+Pre vs Post,PC2,0.1725,-0.2765,0.4489,51.9171,0.0,***,0.0,***,0.4222,small
+Pre vs Post,PC3,0.0456,0.021,0.0246,2.8552,0.004303,**,0.0,***,0.0235,negligible
+Pre vs Post,PC4,-0.1529,0.1717,-0.3247,-41.0669,0.0,***,0.0,***,-0.3354,small
